@@ -5,7 +5,7 @@
 **Health research and expert podcasts, summarized in plain language.** Distilled collects the most-cited studies and expert conversations in 10 health topics (sleep, nutrition, exercise, mental health and more), ranks them by strength of evidence, and explains each one with an AI summary.
 
 ### Try it
-- **Live web demo:** coming soon. It's the same app as on Android, running in the browser against the production backend.
+- **Live web demo: [distilled.expo.app](https://distilled.expo.app)**. It's the same app as on Android, running in the browser against the production backend.
 - **Android:** an APK will be on the [Releases](../../releases) page.
 
 <p>
